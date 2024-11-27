@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! I'm Kevin Chang(Chroma0)</h1>
-<h3 align="center">A software engineer from Taiwan.</h3>
+<h3 align="center">A CS student in NCKU from Taiwan.</h3>
 
 - 🌱 I’m currently learning **Japanese and linux**
 
