@@ -5,16 +5,7 @@
 
 - 📝 Language 中文 / English / 日本語(少し)
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="mailto:kevin30302456@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-<div>
-<p align="left">
-</p>
-
-<h3 align="left">Languages:</h3>
+<h2 align="left">Languages:</h2>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -33,21 +24,21 @@
   </a> 
 </p>
 
-<h3 align="left">Frontend:</h3>
+<h2 align="left">Frontend:</h2>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
   </a>
 <p align="left"> 
 </p>
 
-<h3 align="left">Backend:</h3>
+<h2 align="left">Backend:</h2>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a>
 <p align="left"> 
 </p>
 
-<h3 align="left">Machine Learning:</h3>
+<h2 align="left">Machine Learning:</h2>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a>
@@ -60,21 +51,21 @@
 <p align="left"> 
 </p>
 
-<h3 align="left">App Development:</h3>
+<h2 align="left">App Development:</h2>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
 <p align="left"> 
 </p>
 
-<h3 align="left">Game Engine:</h3>
+<h2 align="left">Game Engine:</h2>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a>
 <p align="left">
 </p>
 
-<h3 align="left">Tools:</h3>
+<h2 align="left">Tools:</h2>
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
@@ -85,4 +76,13 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="mailto:kevin30302456@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+<div>
+<p align="left">
 </p>
